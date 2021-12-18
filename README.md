@@ -5,3 +5,4 @@ A single-page, one-column resume for software developers. It's is build on LaTeX
 Go to [Overleaf](https://www.overleaf.com) website, choose a template and start customizing it or make your LaTeX resume from scratch and download it.
 
 ### Preview
+<img src="./resumePreview.png" width="100%" />
